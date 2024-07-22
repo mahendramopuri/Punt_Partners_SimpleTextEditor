@@ -1,0 +1,14 @@
+.Select {
+  font-size: 16px;
+  width: 150px;
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.Select:hover {
+  background-color: #f0f0f0;
+  border-color: #999;
+}

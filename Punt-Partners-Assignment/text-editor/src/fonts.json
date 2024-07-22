@@ -1,0 +1,233 @@
+{
+  "Roboto": {
+    "variants": [
+      {"weight": 100},
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 700},
+      {"weight": 900},
+      {"weight": 400, "style": "italic"},
+      {"weight": 700, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    ]
+  },
+  "Open Sans": {
+    "variants": [
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap",
+      "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
+    ]
+  },
+  "Lato": {
+    "variants": [
+      {"weight": 100},
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 700},
+      {"weight": 900},
+      {"weight": 100, "style": "italic"},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 900, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+    ]
+  },
+  "Montserrat": {
+    "variants": [
+      {"weight": 100},
+      {"weight": 200},
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 900},
+      {"weight": 100, "style": "italic"},
+      {"weight": 200, "style": "italic"},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 500, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"},
+      {"weight": 900, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ]
+  },
+  "Ubuntu": {
+    "variants": [
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 700}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap"
+    ]
+  },
+  "Playwrite England SemiJoined": {
+    "variants": [
+      {"weight": 400}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Playwrite+England+SemiJoined&display=swap"
+    ]
+  },
+  "Lora": {
+    "variants": [
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 400, "style": "italic"},
+      {"weight": 700, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    ]
+  },
+  "Arimo": {
+    "variants": [
+      {"weight": 400},
+      {"weight": 700},
+      {"weight": 400, "style": "italic"},
+      {"weight": 700, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    ]
+  },
+  "Playwrite Slovensko": {
+    "variants": [
+      {"weight": 400}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Playwrite+Slovensko&display=swap"
+    ]
+  },
+  "Abhaya Libre": {
+    "variants": [
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap"
+    ]
+  },
+  "Advent Pro": {
+    "variants": [
+      {"weight": 100},
+      {"weight": 200},
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 900},
+      {"weight": 100, "style": "italic"},
+      {"weight": 200, "style": "italic"},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 500, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"},
+      {"weight": 900, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100;200;300;400;500;600;700;800;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ]
+  },
+  "Nunito": {
+    "variants": [
+      {"weight": 200},
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 900},
+      {"weight": 200, "style": "italic"},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"},
+      {"weight": 900, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+    ]
+  },
+  "Rosario": {
+    "variants": [
+      {"weight": 300},
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 300, "style": "italic"},
+      {"weight": 400, "style": "italic"},
+      {"weight": 500, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Rosario:wght@300;400;500;600;700;800&display=swap",
+      "https://fonts.googleapis.com/css2?family=Rosario:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
+    ]
+  },
+  "Vollkorn": {
+    "variants": [
+      {"weight": 400},
+      {"weight": 500},
+      {"weight": 600},
+      {"weight": 700},
+      {"weight": 800},
+      {"weight": 900},
+      {"weight": 400, "style": "italic"},
+      {"weight": 500, "style": "italic"},
+      {"weight": 600, "style": "italic"},
+      {"weight": 700, "style": "italic"},
+      {"weight": 800, "style": "italic"},
+      {"weight": 900, "style": "italic"}
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;500;600;700;800;900&display=swap",
+      "https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ]
+  }
+}
